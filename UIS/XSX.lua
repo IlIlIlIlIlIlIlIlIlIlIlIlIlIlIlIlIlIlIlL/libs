@@ -2075,12 +2075,11 @@ function library:Init(key)
                     ChosenKey = InputWait.KeyCode.Name
                 end
             end)
-
-            local ChatTextBox = Player.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Frame.ChatBar
+      
             if UserInputService.WindowFocused then
                 UserInputService.InputBegan:Connect(function(c, p)
                     if not p then
-                        if c.KeyCode.Name == ChosenKey and not ChatTextBox:IsFocused() then
+                        if c.KeyCode.Name == ChosenKey then
                             callback(ChosenKey)
                             return
                         end
