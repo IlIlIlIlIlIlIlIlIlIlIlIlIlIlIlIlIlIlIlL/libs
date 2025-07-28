@@ -501,9 +501,9 @@ do
         --
         Library.Theme.Gradient = Utility.AddImage("akiri/Assets/UI/Gradient.png", "https://raw.githubusercontent.com/mvonwalk/Exterium/main/Gradient.png")
         -- Library.Theme.SecondIcon = Utility.AddImage("akiri/Assets/UI/Gradient.png", "https://raw.githubusercontent.com/mvonwalk/Exterium/main/Gradient.png")
-        Library.Theme.Hue = Utility.AddImage("akiri/Assets/UI/Hue.png", "https://raw.githubusercontent.com/mvonwalk/Exterium/main/HuePicker.png")
-        Library.Theme.Saturation = Utility.AddImage("akiri/Assets/UI/Saturation.png", "https://raw.githubusercontent.com/mvonwalk/Exterium/main/SaturationPicker.png")
-        Library.Theme.SaturationCursor = Utility.AddImage("akiri/Assets/UI/HueCursor.png", "https://raw.githubusercontent.com/mvonwalk/splix-assets/main/Images-cursor.png")
+        Library.Theme.Hue = Utility.AddImage("akiri/Assets/UI/Logo2.png", "https://imgur.com/a/t1lqAtq")
+        Library.Theme.Saturation = Utility.AddImage("akiri/Assets/UI/Logo2.png", "https://imgur.com/a/t1lqAtq")
+        Library.Theme.SaturationCursor = Utility.AddImage("akiri/Assets/UI/Logo2.png", "https://imgur.com/a/t1lqAtq")
         --
         Library.Theme.Dummy = Utility.AddImage("akiri/Assets/UI/Dummy.png", "https://i.imgur.com/6M6buVv.png")
         Library.Theme.Astolfo = Utility.AddImage("akiri/Assets/UI/Astolfo.png", "https://i.imgur.com/T20cWY9.png")
