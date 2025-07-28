@@ -499,7 +499,7 @@ do
         Utility.AddFolder("akiri/Configs")
         Utility.AddFolder("akiri/Scripts")
         --
-        Library.Theme.Gradient = Utility.AddImage("akiri/Assets/UI/Gradient.png", "https://raw.githubusercontent.com/mvonwalk/Exterium/main/Gradient.png")
+        Library.Theme.Gradient = Utility.AddImage("akiri/Assets/UI/Gradient.png", "https://imgur.com/a/t1lqAtq")
         -- Library.Theme.SecondIcon = Utility.AddImage("akiri/Assets/UI/Gradient.png", "https://raw.githubusercontent.com/mvonwalk/Exterium/main/Gradient.png")
         Library.Theme.Hue = Utility.AddImage("akiri/Assets/UI/Logo2.png", "https://imgur.com/a/t1lqAtq")
         Library.Theme.Saturation = Utility.AddImage("akiri/Assets/UI/Logo2.png", "https://imgur.com/a/t1lqAtq")
